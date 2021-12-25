@@ -1,0 +1,101 @@
+{
+  "streams": [
+    {
+      "title": "harish",
+      "description": "stream first time",
+      "id": 1
+    },
+    {
+      "title": "harish",
+      "description": "stream first time",
+      "id": 2
+    },
+    {
+      "title": "new Strea",
+      "description": "newwwwwwwwwww",
+      "userId": null,
+      "id": 3
+    },
+    {
+      "title": "new Strea111",
+      "description": "11111112222",
+      "id": 4
+    },
+    {
+      "title": "my stream",
+      "description": "my id stream update by edit",
+      "id": 5
+    },
+    {
+      "title": "aaaaaaaaaaaaaaa",
+      "description": "aaaa",
+      "userId": "109883969874369826252",
+      "id": 6
+    }
+  ],
+  "friend": [
+    {
+      "id": 1,
+      "name": "abcd",
+      "contact": 123,
+      "birthday": "8th Jan",
+      "isgrpExists": true
+    },
+    {
+      "id": 2,
+      "name": "efg",
+      "contact": 456,
+      "birthday": "26 Jun",
+      "isgrpExists": false
+    },
+    {
+      "id": 3,
+      "name": "xyz",
+      "contact": 456,
+      "birthday": "26 Jun",
+      "isgrpExists": false
+    },
+    {
+      "id": 4,
+      "name": "mno",
+      "contact": 456,
+      "birthday": "26 Jun",
+      "isgrpExists": false
+    },
+    {
+      "id": 5,
+      "name": "efg",
+      "contact": 456,
+      "birthday": "26 Jun",
+      "isgrpExists": false
+    },
+    {
+      "id": 6,
+      "name": "pqr",
+      "contact": 456,
+      "birthday": "26 Jun",
+      "isgrpExists": false
+    },
+    {
+      "name": "mmmm",
+      "birthday": "26th",
+      "contact": "89323214",
+      "userId": "109883969874369826252",
+      "id": 7
+    },
+    {
+      "name": "aaa",
+      "birthday": "26 jun",
+      "contact": "112222222222",
+      "userId": "109883969874369826252",
+      "id": 8
+    },
+    {
+      "name": "mnmlkq",
+      "birthday": "1st  april",
+      "contact": "000000000009999988888888888888888888888888888888888888888777",
+      "userId": "109883969874369826252",
+      "id": 9
+    }
+  ]
+}
